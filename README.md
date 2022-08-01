@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## Layout Final
 
-<img src="https://user-images.githubusercontent.com/105990622/182057476-2e640588-e069-4730-9c0a-3bd1a92de577.png">
+<img src="https://user-images.githubusercontent.com/105990622/182240621-6a6bd33b-7e36-4438-9427-df08b37beb7d.png">
 
 ## Deployment
 
@@ -34,4 +34,3 @@ Acesse o projeto em: https://felipe-rodsilva.github.io/saint-seiya-slider/
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/felipe-rodsilva/saint-seiya-slider/blob/main/License.md">LICENSE</a> para mais detalhes.
-
