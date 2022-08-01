@@ -136,7 +136,19 @@ body {
   color: #000;
 }
 
-footer address {
+.footer .info {
   text-align: center;
   color: #f1ecff;
+}
+
+.footer .info a {
+  text-decoration: none;
+}
+
+.footer .info a:link {
+  color: #ffd700;
+}
+
+.footer .info a:visited {
+  color: #ffd700;
 }
