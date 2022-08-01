@@ -7,7 +7,7 @@
 ## Descrição Do Projeto
 
 <p>Minha versão do Projeto Slider da MapaDevWeek - Julho/2022, com o tema Cavaleiros do Zodíaco (Saint Seiya). // feel nostalgic</p>
-<p>Resolvi me desafiar a criação a minha versão do projeto, já que na primeira participação no evento não tinha feito isso.
+<p>Resolvi criar a minha versão do projeto, já que na primeira participação no evento não tinha feito isso.
 E valeu muito a pena porque com a prática o aprendizado foi ainda maior!
 </p>
 
