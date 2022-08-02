@@ -12,7 +12,7 @@ E valeu muito a pena porque com a prática o aprendizado foi ainda maior!
 </p>
 
 <p>
-Levei quase 2 dias para finalizar o projeto, mas gostei muito do resultado final. Futuramente também pretendo melhorá-lo adicionando mais personagens e funcionalidades,
+Futuramente também pretendo melhorá-lo adicionando mais personagens e funcionalidades,
 espero que gostem!! // E toda contribuição também é bem vinda 🤝
 </p>
 
