@@ -1,6 +1,5 @@
 <div>
 <h1 align="center" > Knights of The Zodiac - Slider
-<img style="width: 35px" "height: 35px" align-self:"center" src="https://user-images.githubusercontent.com/105990622/182056050-1bad6ff5-36cb-4b26-84c8-10cb6ab8aee4.png">
 </h1>
 </div>
 
